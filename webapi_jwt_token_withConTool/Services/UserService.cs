@@ -42,6 +42,7 @@ namespace WebApi.Services
             User user = null;
 
             Connection con = new Connection(SqlClientFactory.Instance, constring);
+
             Command com = new Command("select Id, email, firstname, lastname from tusers where password='" + model.Password + "'");
 
             user = con.ExecuteReader(com, u => u.ToApi()).SingleOrDefault();
