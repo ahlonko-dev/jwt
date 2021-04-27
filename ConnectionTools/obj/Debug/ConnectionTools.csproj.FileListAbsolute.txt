@@ -1,0 +1,6 @@
+C:\TechnoFutur2021\Exercice_WebAPI_MVC_Authentification\ConnectionTools\bin\Debug\00ConnectionTools.dll
+C:\TechnoFutur2021\Exercice_WebAPI_MVC_Authentification\ConnectionTools\bin\Debug\00ConnectionTools.pdb
+C:\TechnoFutur2021\Exercice_WebAPI_MVC_Authentification\ConnectionTools\obj\Debug\ConnectionTools.csprojAssemblyReference.cache
+C:\TechnoFutur2021\Exercice_WebAPI_MVC_Authentification\ConnectionTools\obj\Debug\ConnectionTools.csproj.CoreCompileInputs.cache
+C:\TechnoFutur2021\Exercice_WebAPI_MVC_Authentification\ConnectionTools\obj\Debug\00ConnectionTools.dll
+C:\TechnoFutur2021\Exercice_WebAPI_MVC_Authentification\ConnectionTools\obj\Debug\00ConnectionTools.pdb

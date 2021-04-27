@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\VideoProject\00ConnectionTools\bin\Debug\00ConnectionTools.dll
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\VideoProject\00ConnectionTools\bin\Debug\00ConnectionTools.pdb
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\VideoProject\00ConnectionTools\obj\Debug\00ConnectionTools.csprojAssemblyReference.cache
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\VideoProject\00ConnectionTools\obj\Debug\00ConnectionTools.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\VideoProject\00ConnectionTools\obj\Debug\00ConnectionTools.dll
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\VideoProject\00ConnectionTools\obj\Debug\00ConnectionTools.pdb
